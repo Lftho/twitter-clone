@@ -9,12 +9,15 @@ deploy
 <h1 align="center">Estudo de Flexbox - Clone Twiiter 💙</h1>
 
 ## Descrição do Projeto ⭐️
+<img src="https://github.com/Lftho/twitter-clone/issues/1#issue-623912464">
 <p align="justify">
   O projeto foi construido com um processo de Estudo focado
   em usar o <strong>FlexBox</strong> para melhorar o desempenho
   em CSS3. Por isso motivo usando a Rede Social - Twitter para entender
   sobre as tag que foram usadas 👨🏽‍💻
 </p>
+
+
 
 ## Skill
 <img src="https://img.shields.io/static/v1?label=html&message=ferramenta&color=yellow&style=for-the-badge&logo=HTML">
