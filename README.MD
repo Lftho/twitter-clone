@@ -9,6 +9,7 @@ deploy
 <h1 align="center">Estudo de Flexbox - Clone Twiiter 💙</h1>
 
 ## Descrição do Projeto ⭐️
+
 ![tela-principal](https://user-images.githubusercontent.com/32375042/82761096-6dd94200-9dce-11ea-8ce3-e2f3ef2a75f4.png)
 
 <p align="justify">
@@ -18,7 +19,8 @@ deploy
   sobre as tag que foram usadas 👨🏽‍💻
 </p>
 
-
+## Preview - Da tela toda 💻
+![tela-preenchida](https://user-images.githubusercontent.com/32375042/82761200-4171f580-9dcf-11ea-93b8-ed00f0ee2a3e.png)
 
 ## Skill
 <img src="https://img.shields.io/static/v1?label=html&message=ferramenta&color=yellow&style=for-the-badge&logo=HTML">
