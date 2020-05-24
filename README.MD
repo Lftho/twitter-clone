@@ -25,8 +25,8 @@ deploy
 > Status do Projet: Em desenvolvimento :warning:
 
 - [X] Layout Desktop
-- [] Falta Layout Responsivo
-- [] Layout modo Dark à ser feito
+- [ ] Falta Layout Responsivo
+- [ ] Layout modo Dark à ser feito
 
 ## Deploy da Aplicação com Netlify :dash:
 ___

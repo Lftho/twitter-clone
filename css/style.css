@@ -110,7 +110,7 @@ div.banner {
   height: 380px;
   width: 100%;
   margin: 0 auto;
-  background: #3BB9E3 url('/assets/homem-aranha.svg') no-repeat center;
+  background: #3BB9E3 url('/assets/logo/homem-aranha.svg') no-repeat center;
 
   display: flex;
   justify-content: center;
