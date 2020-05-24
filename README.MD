@@ -1,10 +1,11 @@
+<strong>Iniciado<strong><br/>
+<span color="#ddd">23/Maio 2020</span>
+||
+<strong>Finalizado<strong><br/>
+<span color="#ddd">24/Maio 2020</span>
+
+
 Definido o projeto 23/Maio - 24/Maio/2020
-
-titulo
-descricao 
-status
-deploy
-
 
 <h1 align="center">Estudo de Flexbox - Clone Twiiter 💙</h1>
 
