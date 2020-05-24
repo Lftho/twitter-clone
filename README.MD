@@ -1,5 +1,5 @@
 <strong>Iniciado<strong>
-<span style="color:red;">23/Maio 2020</span>
+<span style="color: #ddd">23/Maio 2020</span>
 ||
 <strong>Finalizado<strong>
 <span style="color: #ddd">24/Maio 2020</span>
