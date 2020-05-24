@@ -9,7 +9,7 @@ deploy
 <h1 align="center">Estudo de Flexbox - Clone Twiiter 💙</h1>
 
 ## Descrição do Projeto ⭐️
-![tela-principal](https://github.com/Lftho/twitter-clone/issues/1#issue-623912464)
+![tela-principal](https://user-images.githubusercontent.com/32375042/82761096-6dd94200-9dce-11ea-8ce3-e2f3ef2a75f4.png)
 
 <p align="justify">
   O projeto foi construido com um processo de Estudo focado
